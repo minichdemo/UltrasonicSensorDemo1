@@ -24,7 +24,7 @@ resistors (3)
 
 EXECUTION
 
-- This program is executable using python and pressing the run button on most platforms. However, this program was made to be ran on the raspberry pi's boot up. This can be done by accessing the rc.local file by typing the command "sudo nano /etc/rc.local" into the terminal. Then paste 
+- This program is executable using python and pressing the run button on most platforms. However, this program was made to be ran on the raspberry pi's boot up. This can be done by accessing the rc.local file by typing the command "sudo nano /etc/rc.local" into the terminal. Then paste: 
 
 - "sudo python /home/pi/"filename".py &" 
 
