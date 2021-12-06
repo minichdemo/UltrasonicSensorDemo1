@@ -26,9 +26,9 @@ EXECUTION
 
 - This program is executable using python and pressing the run button on most platforms. However, this program was made to be ran on the raspberry pi's boot up. This can be done by accessing the rc.local file by typing the command "sudo nano /etc/rc.local" into the terminal. Then paste 
 
-"sudo python /home/pi/"filename".py &" 
+- "sudo python /home/pi/"filename".py &" 
 
-in between the line "fi" and "exit0". To exit the file, press command and "x", type in a capital "Y" when prompted to save, and press enter to finish your save.
+- in between the line "fi" and "exit0". To exit the file, press command and "x", type in a capital "Y" when prompted to save, and press enter to finish your save.
 
 MAINTAINERS
 
