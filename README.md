@@ -4,7 +4,7 @@ INTRODUCTION
  
 - Welcome to the ultrasonic motion detector. This program detects motion utilizing an HC-SRO4 ultrasonic sensor and takes a picture using a raspberry pi with a raspberry pi camera module.
 
-/assets/images/Wiring_Picture.jpg
+![this is an image](https://github.com/minichdemo/UltrasonicSensorDemo1/assets/images/Wiring_Picture.jpg)
 
 REQUIREMENTS
 
