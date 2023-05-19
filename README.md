@@ -38,4 +38,5 @@ MAINTAINERS
 
 Wyomissing Steam Club
 
+Jack Gartner, Mansfield University undergrad
 jackgartner7@gmail.com
